@@ -6,7 +6,7 @@ class Program
     {
         //Requirement 1: Ask for grade percentage and determine letter grades
         Console.WriteLine("Enter your grade percentage: ");
-        int gradePercentage = int.Parse(Console.Readline());
+        int gradePercentage = int.Parse(Console.ReadLine());
 
         string letter = "";
 
