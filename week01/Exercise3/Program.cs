@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        //Generate random number instead of user out put
+        //generate random number instead of user out put
         Random randomGenerator = new Random();
 
         string playAgain = "yes";
